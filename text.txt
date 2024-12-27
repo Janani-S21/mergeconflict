@@ -1,2 +1,2 @@
-city:"Chennai",
-place: Electronic city
+city:"Karur",
+
