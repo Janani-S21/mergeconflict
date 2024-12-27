@@ -1,2 +1,2 @@
 city:"Karur",
-place: Electronic city
+
